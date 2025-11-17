@@ -1,8 +1,11 @@
+## TAMAGOTCHI
+
 ### Alimentación
 La comida se adquiere en la tienda. Ten en cuenta los efectos secundarios:
 * **Pienso Básico:** Sacia mucho pero reduce energía.
 * **Manzana:** Aumenta saciedad y energía.
 * **Golosina:** Aumenta felicidad pero sacia poco.
+* **Comida misteriosa:** Los efectos que tiene son aleatorios.
 
 ### Minijuegos
 Jugar aumenta la felicidad y recompensa con dinero, pero consume energía.
